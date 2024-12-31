@@ -1636,6 +1636,12 @@ header .logo a {
   padding: 0 0 1.5rem 0;
   margin-bottom: 0.6rem;
 }
+
+@media only screen and (max-width: 768px) { .her {
+  
+   /* Adjust the font size for smaller screens */
+  margin-top: 25% !important; /* Add or adjust margin for smaller screens */ }
+
 .about-content .info-list li strong {
   font-family: "poppins-bold", sans-serif;
   color: #313131;
