@@ -1414,6 +1414,9 @@ header .logo a {
   opacity: 0.85;
 }
 
+@media only screen and (max-width: 1440px) { .him {  /* Adjust font size for smaller screens */ margin-top: 20%; /* Add or adjust margin for smaller screens */ } }
+
+
 .intro-content {
   display: table-cell;
   vertical-align: middle;
