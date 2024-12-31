@@ -1640,8 +1640,8 @@ header .logo a {
 @media only screen and (max-width: 1440px) { .her {
   
    /* Adjust the font size for smaller screens */
-   color: green !important;
-  margin-top: 20% !important; /* Add or adjust margin for smaller screens */ }
+   color: yellow !important;
+  margin-top: 30% !important; /* Add or adjust margin for smaller screens */ }
 
 .about-content .info-list li strong {
   font-family: "poppins-bold", sans-serif;
