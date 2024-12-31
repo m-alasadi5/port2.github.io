@@ -1637,7 +1637,7 @@ header .logo a {
   margin-bottom: 0.6rem;
 }
 
-@media only screen and (max-width: 768px) { .her {
+@media only screen and (max-width: 1024px) { .her {
   
    /* Adjust the font size for smaller screens */
   margin-top: 48% !important; /* Add or adjust margin for smaller screens */ }
