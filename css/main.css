@@ -1414,7 +1414,26 @@ header .logo a {
   opacity: 0.85;
 }
 
-@media only screen and (max-width: 1440px) { .him {  /* Adjust font size for smaller screens */ margin-top: 25%; /* Add or adjust margin for smaller screens */ } }
+@media only screen and (max-width: 1440px) {
+  
+ .him {  
+  
+  margin-top: 0;
+  
+   } }
+
+
+   @media screen and (max-width: 920px) {
+    /* Styles for all mobile phones, including large ones like the S22 Ultra */
+    .him {  
+  
+      margin-top: 25%;
+      
+       }
+
+  }
+  
+
 
 
 .intro-content {
