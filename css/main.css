@@ -1418,7 +1418,7 @@ header .logo a {
   
  .him {  
   
-  
+  width: 80%!important; height: 90%!important;
   
    } }
 
@@ -1427,7 +1427,7 @@ header .logo a {
     /* Styles for all mobile phones, including large ones like the S22 Ultra */
     .him {  
   
-      width: 60%!important; height: 80%!important;
+      
       
        }
 
